@@ -39,7 +39,7 @@ Japan
 ```
 
 ```
-pcc -n japa | awk 'NR == 1'
+$ pcc -n japa | awk 'NR == 1'
 JA
 ```
 
