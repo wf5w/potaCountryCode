@@ -21,7 +21,7 @@ the output will consist of 3 lines:
 * country name, 
 * and the number of parks in the pota database for that country
 
-**NOTE: this uses the jq utility**
+**NOTE: this uses the jq utility** - (see https://github.com/jqlang/jq)
 
 ## Examples
 ```
